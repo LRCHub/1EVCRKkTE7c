@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "宇宙の季節",
+  "base_artist": "Lanndo",
+  "createdAt": "2026-01-13T22:33:50.190583Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "宇宙の季節",
+      "artist": "Lanndo feat. Eve & suis",
+      "has_synced": true,
+      "path": "select/01_宇宙の季節_Lanndo_feat._Eve_&_suis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "宇宙の季節",
+      "artist": "Lanndo",
+      "has_synced": true,
+      "path": "select/02_宇宙の季節_Lanndo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "宇宙の季節",
+      "artist": "Lanndo feat. Eve, suis",
+      "has_synced": true,
+      "path": "select/03_宇宙の季節_Lanndo_feat._Eve,_suis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "宇宙の季節 feat. Eve, suis from ヨルシカ",
+      "artist": "Lanndo",
+      "has_synced": true,
+      "path": "select/04_宇宙の季節_feat._Eve,_suis_from_ヨルシカ_Lanndo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "宇宙の季節( feat.Eve & suis (from ヨルシカ))",
+      "artist": "Lanndo",
+      "has_synced": true,
+      "path": "select/05_宇宙の季節(_feat.Eve_&_suis_(from_ヨルシカ))_Lanndo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "宇宙の季節",
+      "artist": "Lanndo feat. Eve & suis (from ヨルシカ)",
+      "has_synced": true,
+      "path": "select/06_宇宙の季節_Lanndo_feat._Eve_&_suis_(from_ヨルシカ).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "宇宙の季節",
+      "artist": "Lanndo",
+      "has_synced": true,
+      "path": "select/07_宇宙の季節_Lanndo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宇宙の季節",
+      "artist": "Lanndo feat.Eve,suis(from ヨルシカ)",
+      "has_synced": false,
+      "path": "select/pl_01_宇宙の季節_Lanndo_feat.Eve,suis(from_ヨルシカ).txt"
+    }
+  ]
+}
